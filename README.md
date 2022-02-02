@@ -20,6 +20,6 @@ Se realizo primero el diseño de la interfaz en la que se basaria el desarrollo.
 
 El diseño se realizo en Figma
 
-Se puede acceder al diseño [en este link.](https://www.behance.net/gallery/136530869/Proyecto-Final-Modulo-1-Bedu).
+Se puede acceder al diseño [en este link](https://www.behance.net/gallery/136530869/Proyecto-Final-Modulo-1-Bedu).
 
 
