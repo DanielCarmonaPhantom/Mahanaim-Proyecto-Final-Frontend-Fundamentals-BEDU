@@ -8,7 +8,7 @@
 3. <a href='#3-diseño'>Diseño</a>
 4. <a href='#4-maquetado'>Maquetado</a>
 5. <a href='#5-deployment'>Deployment</a>
-6. <a href='#6-peoximos'>Proximos pasos</a>
+6. <a href='#6-concluciones'>Concluciones y siguientes pasos</a>
 
 
 <h2 id='introduccion'>1. Introducción</h2>
