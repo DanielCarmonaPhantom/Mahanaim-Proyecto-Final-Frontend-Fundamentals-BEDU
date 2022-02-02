@@ -3,18 +3,18 @@
 
 
 ## Indíce
-1. Introducción
-2. Tecnologías utilizadas
-3. Diseño
+1. <a href='#1-introduccion'>Introducción</a>
+2. <a href='#2-tecnologias'>Tecnologías utilizadas</a>
+3. <a href='#3-diseño'>Diseño</a>
 4. <a href='#4-maquetado'>Maquetado</a>
-5. Deployment
-6. Proximos pasos
+5. <a href='#5-deployment'>Deployment</a>
+6. <a href='#6-peoximos'>Proximos pasos</a>
 
 
-## 1. Introduccíon
+<h2 id='introduccion'>1. Introducción</h2>
 Se desarrollo el proyecto de una página web para los Centros De Rehabilitación Mahanaim GAM
 
-## 2. Tecnologías utilizadas
+<h2 id='tecnologias'>2. Tecnologias</h2>
 * Figma
 * HTML
 * SCSS
