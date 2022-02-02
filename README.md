@@ -34,9 +34,17 @@ Las secciones que se diseñaron fueron:
 
 Se puede acceder al diseño [en este link](https://www.behance.net/gallery/136530869/Proyecto-Final-Modulo-1-Bedu).
 
-## 4. Maquetado
+
+<h2 id='Maquedado'>4. Maquetado<h2>
 Se realizo el maquetado basado en el previo diseño elaboro.
 Se fueron construyento cada una de las secciones.
 Para los estilos se utilizo `scss`
+
+## 5. Deployment
+Se hizo el deployment subiendo el proyecto a un servidor alquilado y puede ser encontro en: 
+
+[Proyecto Final](https://devphantom.org/prototypes/6/index.html)
+
+## 6. Concluciones y siguientes pasos
 
 
