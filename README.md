@@ -9,7 +9,7 @@
 4. <a href='#4-maquetado'>Maquetado</a>
 5. <a href='#5-deployment'>Deployment</a>
 6. <a href='#6-concluciones-y-siguientes-pasos'>Concluciones y siguientes pasos</a>
-7. <a href='#7- archivos'>Archivos</a>
+7. <a href='#7-archivos'>Archivos</a>
 
 
 <h2 id='introduccion'>1. Introducción</h2>
@@ -55,5 +55,5 @@ Se programa el servicio de formualario para poder almacenar los datos.
 
 
 ## 7. Archivos
-<a href='/'></a>
+<a href='index.html'>index.html</a>
 
