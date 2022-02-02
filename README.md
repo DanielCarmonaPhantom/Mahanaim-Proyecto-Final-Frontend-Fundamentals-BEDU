@@ -5,6 +5,10 @@
 ## Indíce
 1. Introducción
 2. Tecnologías utilizadas
+3. Diseño
+4. <a href='#Maquetado'>Maquetado</a>
+5. Deployment
+6. Proximos pasos
 
 
 ## 1. Introduccíon
@@ -36,6 +40,7 @@ Se puede acceder al diseño [en este link](https://www.behance.net/gallery/13653
 
 
 <h2 id='Maquedado'>4. Maquetado<h2>
+  
 Se realizo el maquetado basado en el previo diseño elaboro.
 Se fueron construyento cada una de las secciones.
 Para los estilos se utilizo `scss`
