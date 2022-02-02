@@ -15,6 +15,7 @@
 Se desarrollo el proyecto de una página web para los Centros De Rehabilitación Mahanaim GAM
 
 <h2 id='tecnologias'>2. Tecnologias</h2>
+
 * Figma
 * HTML
 * SCSS
@@ -46,9 +47,7 @@ Se fueron construyento cada una de las secciones.
 Para los estilos se utilizo `scss`
 
 ## 5. Deployment
-Se hizo el deployment subiendo el proyecto a un servidor alquilado y puede ser encontro en: 
-
-[Proyecto Final](https://devphantom.org/prototypes/6/index.html)
+Se hizo el deployment subiendo el proyecto a un servidor alquilado y puede ser encontrado en: [Proyecto Final](https://devphantom.org/prototypes/6/index.html)
 
 ## 6. Concluciones y siguientes pasos
 Se programa el servicio de formualario para poder almacenar los datos.
