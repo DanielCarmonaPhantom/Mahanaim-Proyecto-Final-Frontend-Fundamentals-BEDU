@@ -37,6 +37,6 @@ Se puede acceder al diseño [en este link](https://www.behance.net/gallery/13653
 ## 4. Maquetado
 Se realizo el maquetado basado en el previo diseño elaboro.
 Se fueron construyento cada una de las secciones.
-Para los estilos se utilizo ´scss´
+Para los estilos se utilizo `scss`
 
 
