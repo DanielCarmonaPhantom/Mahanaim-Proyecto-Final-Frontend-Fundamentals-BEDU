@@ -16,9 +16,19 @@ Se desarrollo el proyecto de una página web para los Centros De Rehabilitación
 * Figma
 
 ## 3. Diseño
-Se realizo primero el diseño de la interfaz en la que se basaria el desarrollo.
+Se realizo primero el diseño de la interfaz en fimga.
 
-El diseño se realizo en Figma
+Las secciones que se diseñaron fueron:
+1. Navbar
+2. Hero
+3. ¿Quiénes somos?
+4. Misión, Visión y Valores
+5. Galería
+6. Call to action
+7. Nuestras unidades
+8. Nuestros aliados
+9. Cuentanos tu caso
+10. Footer
 
 Se puede acceder al diseño [en este link](https://www.behance.net/gallery/136530869/Proyecto-Final-Modulo-1-Bedu).
 
