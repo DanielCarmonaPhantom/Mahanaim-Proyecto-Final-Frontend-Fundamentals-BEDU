@@ -51,7 +51,7 @@ Para los estilos se utilizo `scss`
 Se hizo el deployment subiendo el proyecto a un servidor alquilado y puede ser encontrado en: [Proyecto Final](https://devphantom.org/prototypes/6/index.html)
 
 ## 6. Concluciones y siguientes pasos
-Se programa el servicio de formualario para poder almacenar los datos.
+Se programará el servicio de formulario para poder almacenar los datos.
 
 
 ## 7. Archivos
