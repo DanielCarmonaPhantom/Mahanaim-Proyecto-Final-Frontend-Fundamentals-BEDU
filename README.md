@@ -39,7 +39,7 @@ Las secciones que se diseñaron fueron:
 Se puede acceder al diseño [en este link](https://www.behance.net/gallery/136530869/Proyecto-Final-Modulo-1-Bedu).
 
 
-<h2 id='Maquedado'>4. Maquetado<h2>
+<h2 id='Maquedado'>4. Maquetado</h2>
   
 Se realizo el maquetado basado en el previo diseño elaboro.
 Se fueron construyento cada una de las secciones.
