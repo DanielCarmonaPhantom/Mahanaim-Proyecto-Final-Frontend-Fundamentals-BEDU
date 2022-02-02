@@ -8,7 +8,7 @@
 3. <a href='#3-diseño'>Diseño</a>
 4. <a href='#4-maquetado'>Maquetado</a>
 5. <a href='#5-deployment'>Deployment</a>
-6. <a href='#6-concluciones'>Concluciones y siguientes pasos</a>
+6. <a href='#6-concluciones-y-siguientes-pasos'>Concluciones y siguientes pasos</a>
 
 
 <h2 id='introduccion'>1. Introducción</h2>
@@ -51,5 +51,4 @@ Se hizo el deployment subiendo el proyecto a un servidor alquilado y puede ser e
 [Proyecto Final](https://devphantom.org/prototypes/6/index.html)
 
 ## 6. Concluciones y siguientes pasos
-
-
+Se programa el servicio de formualario para poder almacenar los datos.
