@@ -6,7 +6,7 @@
 1. Introducción
 2. Tecnologías utilizadas
 3. Diseño
-4. <a href='#Maquetado'>Maquetado</a>
+4. <a href='#4-maquetado'>Maquetado</a>
 5. Deployment
 6. Proximos pasos
 
