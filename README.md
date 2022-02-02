@@ -11,9 +11,11 @@
 Se desarrollo el proyecto de una página web para los Centros De Rehabilitación Mahanaim GAM
 
 ## 2. Tecnologías utilizadas
+* Figma
 * HTML
 * SCSS
-* Figma
+* Boostrap
+
 
 ## 3. Diseño
 Se realizo primero el diseño de la interfaz en fimga.
@@ -31,5 +33,10 @@ Las secciones que se diseñaron fueron:
 10. Footer
 
 Se puede acceder al diseño [en este link](https://www.behance.net/gallery/136530869/Proyecto-Final-Modulo-1-Bedu).
+
+## 4. Maquetado
+Se realizo el maquetado basado en el previo diseño elaboro.
+Se fueron construyento cada una de las secciones.
+Para los estilos se utilizo ´scss´
 
 
